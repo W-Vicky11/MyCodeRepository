@@ -1,0 +1,15 @@
+D:\DC#文件\Assignment3\Shaps\bin\Debug\net6.0\Shaps.exe
+D:\DC#文件\Assignment3\Shaps\bin\Debug\net6.0\Shaps.deps.json
+D:\DC#文件\Assignment3\Shaps\bin\Debug\net6.0\Shaps.runtimeconfig.json
+D:\DC#文件\Assignment3\Shaps\bin\Debug\net6.0\Shaps.dll
+D:\DC#文件\Assignment3\Shaps\bin\Debug\net6.0\Shaps.pdb
+D:\DC#文件\Assignment3\Shaps\obj\Debug\net6.0\Shaps.csproj.AssemblyReference.cache
+D:\DC#文件\Assignment3\Shaps\obj\Debug\net6.0\Shaps.GeneratedMSBuildEditorConfig.editorconfig
+D:\DC#文件\Assignment3\Shaps\obj\Debug\net6.0\Shaps.AssemblyInfoInputs.cache
+D:\DC#文件\Assignment3\Shaps\obj\Debug\net6.0\Shaps.AssemblyInfo.cs
+D:\DC#文件\Assignment3\Shaps\obj\Debug\net6.0\Shaps.csproj.CoreCompileInputs.cache
+D:\DC#文件\Assignment3\Shaps\obj\Debug\net6.0\Shaps.dll
+D:\DC#文件\Assignment3\Shaps\obj\Debug\net6.0\refint\Shaps.dll
+D:\DC#文件\Assignment3\Shaps\obj\Debug\net6.0\Shaps.pdb
+D:\DC#文件\Assignment3\Shaps\obj\Debug\net6.0\Shaps.genruntimeconfig.cache
+D:\DC#文件\Assignment3\Shaps\obj\Debug\net6.0\ref\Shaps.dll

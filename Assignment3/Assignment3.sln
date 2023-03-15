@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shaps", "Shaps\Shaps.csproj", "{A8FA596D-F9E8-4AF0-8A4B-8E0D0DE4330C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapsFactory", "ShapsFactory\ShapsFactory.csproj", "{4A786C48-4C07-4FB0-9B35-8452BD499B16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8FA596D-F9E8-4AF0-8A4B-8E0D0DE4330C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8FA596D-F9E8-4AF0-8A4B-8E0D0DE4330C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8FA596D-F9E8-4AF0-8A4B-8E0D0DE4330C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FA596D-F9E8-4AF0-8A4B-8E0D0DE4330C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A786C48-4C07-4FB0-9B35-8452BD499B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A786C48-4C07-4FB0-9B35-8452BD499B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A786C48-4C07-4FB0-9B35-8452BD499B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A786C48-4C07-4FB0-9B35-8452BD499B16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC12739D-B921-4D59-AD4A-90652F07D87B}
+	EndGlobalSection
+EndGlobal

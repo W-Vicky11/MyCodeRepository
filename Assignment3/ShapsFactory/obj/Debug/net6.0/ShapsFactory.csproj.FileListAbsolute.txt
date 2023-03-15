@@ -1,0 +1,15 @@
+D:\DC#文件\Assignment3\ShapsFactory\bin\Debug\net6.0\ShapsFactory.exe
+D:\DC#文件\Assignment3\ShapsFactory\bin\Debug\net6.0\ShapsFactory.deps.json
+D:\DC#文件\Assignment3\ShapsFactory\bin\Debug\net6.0\ShapsFactory.runtimeconfig.json
+D:\DC#文件\Assignment3\ShapsFactory\bin\Debug\net6.0\ShapsFactory.dll
+D:\DC#文件\Assignment3\ShapsFactory\bin\Debug\net6.0\ShapsFactory.pdb
+D:\DC#文件\Assignment3\ShapsFactory\obj\Debug\net6.0\ShapsFactory.csproj.AssemblyReference.cache
+D:\DC#文件\Assignment3\ShapsFactory\obj\Debug\net6.0\ShapsFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\DC#文件\Assignment3\ShapsFactory\obj\Debug\net6.0\ShapsFactory.AssemblyInfoInputs.cache
+D:\DC#文件\Assignment3\ShapsFactory\obj\Debug\net6.0\ShapsFactory.AssemblyInfo.cs
+D:\DC#文件\Assignment3\ShapsFactory\obj\Debug\net6.0\ShapsFactory.csproj.CoreCompileInputs.cache
+D:\DC#文件\Assignment3\ShapsFactory\obj\Debug\net6.0\ShapsFactory.dll
+D:\DC#文件\Assignment3\ShapsFactory\obj\Debug\net6.0\refint\ShapsFactory.dll
+D:\DC#文件\Assignment3\ShapsFactory\obj\Debug\net6.0\ShapsFactory.pdb
+D:\DC#文件\Assignment3\ShapsFactory\obj\Debug\net6.0\ShapsFactory.genruntimeconfig.cache
+D:\DC#文件\Assignment3\ShapsFactory\obj\Debug\net6.0\ref\ShapsFactory.dll
